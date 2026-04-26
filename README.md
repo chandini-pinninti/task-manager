@@ -136,33 +136,4 @@ task-manager
 ```
 
 
-## Screenshots
-
-### Admin Dashboard
-
-![Admin Dashboard](screenshots/Admin Dashboard.png)
-
----
-
-### Login Page
-
-![Login Page](screenshots/Login dashboard.png)
-
----
-
-### User Dashboard
-
-![User Dashboard](screenshots/User Dashboard.png)
-
----
-
-### Admin Registration
-
-![Admin Registration](screenshots/Admin registration.png)
-
----
-
-### User Registration
-
-![User Registration](screenshots/User registration.png)
 
