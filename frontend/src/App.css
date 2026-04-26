@@ -1,0 +1,90 @@
+/* Page container */
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* Cards */
+.card {
+  background: #ffffff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Inputs */
+.input {
+  width: 48%;
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Create button */
+.create-btn {
+  width: 100%;
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.create-btn:hover {
+  background-color: #0056b3;
+}
+
+/* Task item */
+.task-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f8f9fa;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+}
+
+/* Complete button */
+.complete-btn {
+  background: green;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  margin-right: 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Delete button */
+.delete-btn {
+  background: red;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Logout button */
+.logout-btn {
+  background: #ff4d4d;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
