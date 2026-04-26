@@ -113,15 +113,15 @@ Steps:
 ## Demo Accounts
 
 Admin:
-
-Email: [admin@gmail.com](mailto:admin@gmail.com)
-Password: admin123
+Full Name: Admin
+Email: [admin1@gmail.com]
+Password: admin1234
 Admin Key: ADMIN123
 
 User:
-
+Full name: user
 Email: [user1@gmail.com](mailto:user1@gmail.com)
-Password: user123
+Password: user1234
 
 ---
 
@@ -134,6 +134,5 @@ task-manager
    screenshots
    README.md
 ```
-
 
 
